@@ -1,0 +1,15 @@
+pyttsx3
+pyaudio
+numpy
+whisper 
+vosk
+rapidfuzz
+requests
+beautifulsoup4
+python-dotenv
+livekit-agents
+langchain-community
+plyer
+livekit-plugins-noise-cancellation
+livekit-plugins-google
+yt-dlp
