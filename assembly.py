@@ -8,7 +8,7 @@ from urllib.parse import urlencode
 from datetime import datetime
 
 # --- Configuration ---
-YOUR_API_KEY = "a106bda2ad84497e94446319f9727050"  # Replace with your actual API key
+YOUR_API_KEY = "YOUR_API_KEY"  # Replace with your actual API key
 
 CONNECTION_PARAMS = {
     "sample_rate": 16000,
